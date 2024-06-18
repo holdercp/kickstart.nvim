@@ -578,6 +578,7 @@ require('lazy').setup({
         tsserver = {},
         --
         ruby_lsp = {},
+        phpactor = {},
         mdx_analyzer = {
           filetypes = { 'mdx' },
         },
